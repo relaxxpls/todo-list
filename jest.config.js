@@ -2,7 +2,7 @@
 /** @type {import('@jest/types').Config.InitialOptions} */
 const config = {
   verbose: true,
-  preset: 'jest-expo',
+  preset: "jest-expo",
 };
 
 module.exports = config;
